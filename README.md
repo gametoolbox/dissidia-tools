@@ -17,5 +17,5 @@ Here's tools to convert models and textures of Dissidia Final Fantasy NT (PS4)
 | :---------: | :----------: | :----------: | :----------: |
 | GMPK        | **50%**      | yes          | Game Package File |
 | RTRPK        | **50%**      | yes          | Game Package Tree File |
-| G1M        | **50%**      | yes          | Model Data [Skeletal] |
+| G1M        | **50%**      | yes          | Model Data [Skeletal/Static] |
 | G1T        | **50%**      | yes          | Texture [DXT1/DXT5] |
